@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ham & Egg Sandwhich",
+    "category": "Breakfast",
+    "macronutrients": {
+      "fats": 9999,
+      "proteins": 9999,
+      "carbs": 9999
+    },
+    "ingredients": ["Eggs", "Ham", "Bread"]
+  }
+]
