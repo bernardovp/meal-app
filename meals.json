@@ -8,5 +8,15 @@
       "carbs": 9999
     },
     "ingredients": ["Eggs", "Ham", "Bread"]
+  },
+  {
+    "name": "",
+    "category": "",
+    "macronutrients": {
+      "fats": ,
+      "proteins": ,
+      "carbs":
+    },
+    "ingredients": [""]
   }
 ]
