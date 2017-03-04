@@ -1,0 +1,14 @@
+.header {
+  padding: 2rem;
+  border: 0.125rem;
+  border-color: #909090;
+  border-style: solid;
+}
+
+.title {
+  color: blue;
+}
+
+.header .title {
+  color: red;
+}
